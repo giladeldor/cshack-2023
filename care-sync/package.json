@@ -1,7 +1,7 @@
 {
   "name": "care-sync",
   "version": "0.1.0",
-  "homepage": "https://nissanohana.github.io/cshack-2023/care-sync",
+  "homepage": "https://nissanohana.github.io/cshack-2023/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.6",
